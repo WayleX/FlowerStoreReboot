@@ -1,0 +1,1 @@
+INSERT INTO flower(color, id, price, sepal_length) VALUES (0, 2, 45, 0.8)
